@@ -1,0 +1,12 @@
+.logo{
+    style="border: 0;
+    float: left;
+    vertical-align: middle;
+    width: 150px;
+    height:150px;
+}
+
+header,footer {
+    background-color: #474e5d; /* Dark Blue */
+    color: #ffffff;
+}
